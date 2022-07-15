@@ -1,5 +1,7 @@
 #include "main.h"
-
+void SPI_Init(void){
+    SSI2_Init();
+}
 void SSI2IntHandler(void){
     uint32_t ui32Status;
     //读取 SSIMIS（SSI 屏蔽中断状态）。
