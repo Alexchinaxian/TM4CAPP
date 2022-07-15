@@ -12,12 +12,12 @@ driverlib/systick.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/in
 driverlib/systick.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/systick.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/systick.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/systick.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-driverlib/systick.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_nvic.h
-driverlib/systick.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/systick.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
-driverlib/systick.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
-driverlib/systick.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/systick.h
+driverlib/systick.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+driverlib/systick.obj: D:/VScodeGithub/TM4CAPP/inc/hw_nvic.h
+driverlib/systick.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/systick.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
+driverlib/systick.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
+driverlib/systick.obj: D:/VScodeGithub/TM4CAPP/driverlib/systick.h
 
 ../driverlib/systick.c:
 
@@ -43,15 +43,15 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_nvic.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_nvic.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/systick.h:
+D:/VScodeGithub/TM4CAPP/driverlib/systick.h:
 

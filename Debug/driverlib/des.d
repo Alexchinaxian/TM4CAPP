@@ -12,13 +12,13 @@ driverlib/des.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/includ
 driverlib/des.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/des.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/des.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_des.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/des.h
-driverlib/des.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/inc/hw_des.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/driverlib/des.h
+driverlib/des.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
 
 ../driverlib/des.c:
 
@@ -44,17 +44,17 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_des.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_des.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/des.h:
+D:/VScodeGithub/TM4CAPP/driverlib/des.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 

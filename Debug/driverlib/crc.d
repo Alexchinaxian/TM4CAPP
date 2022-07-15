@@ -12,11 +12,11 @@ driverlib/crc.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/includ
 driverlib/crc.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/crc.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/crc.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/crc.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ccm.h
-driverlib/crc.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h
-driverlib/crc.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/crc.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/crc.h
-driverlib/crc.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
+driverlib/crc.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ccm.h
+driverlib/crc.obj: D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h
+driverlib/crc.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/crc.obj: D:/VScodeGithub/TM4CAPP/driverlib/crc.h
+driverlib/crc.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
 
 ../driverlib/crc.c:
 
@@ -42,13 +42,13 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ccm.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ccm.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/crc.h:
+D:/VScodeGithub/TM4CAPP/driverlib/crc.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 

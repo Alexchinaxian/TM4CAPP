@@ -1,7 +1,7 @@
 # FIXED
 
 MCU_App/src/app_bootloader.obj: ../MCU_App/src/app_bootloader.c
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/main.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/main.h
 MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h
 MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h
 MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h
@@ -13,29 +13,29 @@ MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2
 MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
 MCU_App/src/app_bootloader.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Timer.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Uart.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_SPI.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_API/inc/API_Uart.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_App/inc/app_bootloader.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_flash.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_uart.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_nvic.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/pin_map.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/gpio.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/rom_map.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/flash.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/uart.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
-MCU_App/src/app_bootloader.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/ssi.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Timer.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Uart.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_SPI.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/MCU_API/inc/API_Uart.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/MCU_App/inc/app_bootloader.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/inc/hw_flash.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/inc/hw_uart.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/inc/hw_nvic.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/pin_map.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/gpio.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/rom_map.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/flash.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/uart.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
+MCU_App/src/app_bootloader.obj: D:/VScodeGithub/TM4CAPP/driverlib/ssi.h
 
 ../MCU_App/src/app_bootloader.c:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/main.h:
+D:/VScodeGithub/TM4CAPP/main.h:
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h:
 
@@ -59,41 +59,41 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Timer.h:
+D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Timer.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Uart.h:
+D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Uart.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_SPI.h:
+D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_SPI.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_API/inc/API_Uart.h:
+D:/VScodeGithub/TM4CAPP/MCU_API/inc/API_Uart.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_App/inc/app_bootloader.h:
+D:/VScodeGithub/TM4CAPP/MCU_App/inc/app_bootloader.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_flash.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_flash.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_uart.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_uart.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_nvic.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_nvic.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h:
+D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/pin_map.h:
+D:/VScodeGithub/TM4CAPP/driverlib/pin_map.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/gpio.h:
+D:/VScodeGithub/TM4CAPP/driverlib/gpio.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/rom_map.h:
+D:/VScodeGithub/TM4CAPP/driverlib/rom_map.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/flash.h:
+D:/VScodeGithub/TM4CAPP/driverlib/flash.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/uart.h:
+D:/VScodeGithub/TM4CAPP/driverlib/uart.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/ssi.h:
+D:/VScodeGithub/TM4CAPP/driverlib/ssi.h:
 

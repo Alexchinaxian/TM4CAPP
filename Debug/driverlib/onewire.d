@@ -12,15 +12,15 @@ driverlib/onewire.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/in
 driverlib/onewire.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/onewire.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
 driverlib/onewire.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_onewire.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_sysctl.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/onewire.h
-driverlib/onewire.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/inc/hw_onewire.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/inc/hw_sysctl.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/driverlib/onewire.h
+driverlib/onewire.obj: D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h
 
 ../driverlib/onewire.c:
 
@@ -46,21 +46,21 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_onewire.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_onewire.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_sysctl.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_sysctl.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/onewire.h:
+D:/VScodeGithub/TM4CAPP/driverlib/onewire.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h:
+D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h:
 

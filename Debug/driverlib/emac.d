@@ -12,15 +12,15 @@ driverlib/emac.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/inclu
 driverlib/emac.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/emac.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/emac.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_emac.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/emac.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
-driverlib/emac.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sw_crc.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/inc/hw_emac.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/driverlib/emac.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
+driverlib/emac.obj: D:/VScodeGithub/TM4CAPP/driverlib/sw_crc.h
 
 ../driverlib/emac.c:
 
@@ -46,21 +46,21 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_emac.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_emac.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/emac.h:
+D:/VScodeGithub/TM4CAPP/driverlib/emac.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h:
+D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sw_crc.h:
+D:/VScodeGithub/TM4CAPP/driverlib/sw_crc.h:
 

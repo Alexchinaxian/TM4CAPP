@@ -13,11 +13,11 @@ main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine
 main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
 main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h
-main.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Timer.h
-main.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Uart.h
-main.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_SPI.h
-main.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_API/inc/API_Uart.h
-main.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_App/inc/app_bootloader.h
+main.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Timer.h
+main.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Uart.h
+main.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_SPI.h
+main.obj: D:/VScodeGithub/TM4CAPP/MCU_API/inc/API_Uart.h
+main.obj: D:/VScodeGithub/TM4CAPP/MCU_App/inc/app_bootloader.h
 main.obj: ../inc/hw_flash.h
 main.obj: ../inc/hw_types.h
 main.obj: ../inc/hw_memmap.h
@@ -59,15 +59,15 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Timer.h:
+D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Timer.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_Uart.h:
+D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Uart.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_bsp/inc/bsp_SPI.h:
+D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_SPI.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_API/inc/API_Uart.h:
+D:/VScodeGithub/TM4CAPP/MCU_API/inc/API_Uart.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/MCU_App/inc/app_bootloader.h:
+D:/VScodeGithub/TM4CAPP/MCU_App/inc/app_bootloader.h:
 
 ../inc/hw_flash.h:
 

@@ -11,9 +11,9 @@ driverlib/fpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/includ
 driverlib/fpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/fpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/fpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/fpu.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_nvic.h
-driverlib/fpu.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/fpu.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/fpu.h
+driverlib/fpu.obj: D:/VScodeGithub/TM4CAPP/inc/hw_nvic.h
+driverlib/fpu.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/fpu.obj: D:/VScodeGithub/TM4CAPP/driverlib/fpu.h
 
 ../driverlib/fpu.c:
 
@@ -37,9 +37,9 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_nvic.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_nvic.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/fpu.h:
+D:/VScodeGithub/TM4CAPP/driverlib/fpu.h:
 

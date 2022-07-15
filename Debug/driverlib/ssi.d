@@ -12,14 +12,14 @@ driverlib/ssi.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/includ
 driverlib/ssi.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/ssi.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/ssi.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ssi.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_sysctl.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
-driverlib/ssi.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/ssi.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ssi.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/inc/hw_sysctl.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
+driverlib/ssi.obj: D:/VScodeGithub/TM4CAPP/driverlib/ssi.h
 
 ../driverlib/ssi.c:
 
@@ -45,19 +45,19 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_memmap.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_memmap.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ssi.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ssi.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_sysctl.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_sysctl.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/ssi.h:
+D:/VScodeGithub/TM4CAPP/driverlib/ssi.h:
 

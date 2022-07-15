@@ -13,7 +13,7 @@ void SSI2IntHandler(void){
     g_breceiveFlag = 1;
 }
 
-void TM4CSSI2_Config(void){
+void SSI2_Init(void){
     //启用 SSI2使用。
     MAP_SysCtlPeripheralEnable(SYSCTL_PERIPH_SSI2);
     //配置引脚PD0 PD1 PD2 PD3

@@ -11,7 +11,7 @@ driverlib/cpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/includ
 driverlib/cpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
 driverlib/cpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 driverlib/cpu.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-driverlib/cpu.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/cpu.h
+driverlib/cpu.obj: D:/VScodeGithub/TM4CAPP/driverlib/cpu.h
 
 ../driverlib/cpu.c:
 
@@ -35,5 +35,5 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/cpu.h:
+D:/VScodeGithub/TM4CAPP/driverlib/cpu.h:
 

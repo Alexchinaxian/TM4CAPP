@@ -15,14 +15,14 @@ driverlib/hibernate.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/
 driverlib/hibernate.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/time.h
 driverlib/hibernate.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/abi_prefix.h
 driverlib/hibernate.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/xlocale/_time.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_hibernate.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_sysctl.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/hibernate.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h
-driverlib/hibernate.obj: C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/inc/hw_hibernate.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/inc/hw_ints.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/inc/hw_sysctl.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/inc/hw_types.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/driverlib/debug.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/driverlib/hibernate.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h
+driverlib/hibernate.obj: D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h
 
 ../driverlib/hibernate.c:
 
@@ -54,19 +54,19 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/abi_prefix.h:
 
 C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/xlocale/_time.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_hibernate.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_hibernate.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_ints.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_ints.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_sysctl.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_sysctl.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/inc/hw_types.h:
+D:/VScodeGithub/TM4CAPP/inc/hw_types.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/debug.h:
+D:/VScodeGithub/TM4CAPP/driverlib/debug.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/hibernate.h:
+D:/VScodeGithub/TM4CAPP/driverlib/hibernate.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/interrupt.h:
+D:/VScodeGithub/TM4CAPP/driverlib/interrupt.h:
 
-C:/Users/xiao.hexin.alex/workspace_v10/boot_apppart/driverlib/sysctl.h:
+D:/VScodeGithub/TM4CAPP/driverlib/sysctl.h:
 
