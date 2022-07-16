@@ -2,22 +2,23 @@
 
 main.obj: ../main.c
 main.obj: ../main.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
-main.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h
-main.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Timer.h
-main.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Uart.h
-main.obj: D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_SPI.h
-main.obj: D:/VScodeGithub/TM4CAPP/MCU_API/inc/API_Uart.h
-main.obj: D:/VScodeGithub/TM4CAPP/MCU_App/inc/app_bootloader.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
+main.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h
+main.obj: C:/vscode/TM4CAPP/MCU_bsp/inc/bsp_Timer.h
+main.obj: C:/vscode/TM4CAPP/MCU_bsp/inc/bsp_Uart.h
+main.obj: C:/vscode/TM4CAPP/MCU_bsp/inc/bsp_SPI.h
+main.obj: C:/vscode/TM4CAPP/MCU_API/inc/API_Uart.h
+main.obj: C:/vscode/TM4CAPP/MCU_API/inc/API_SPI.h
+main.obj: C:/vscode/TM4CAPP/MCU_App/inc/app_bootloader.h
 main.obj: ../inc/hw_flash.h
 main.obj: ../inc/hw_types.h
 main.obj: ../inc/hw_memmap.h
@@ -37,37 +38,39 @@ main.obj: ../driverlib/ssi.h
 
 ../main.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
 
-C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h:
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h:
 
-D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Timer.h:
+C:/vscode/TM4CAPP/MCU_bsp/inc/bsp_Timer.h:
 
-D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_Uart.h:
+C:/vscode/TM4CAPP/MCU_bsp/inc/bsp_Uart.h:
 
-D:/VScodeGithub/TM4CAPP/MCU_bsp/inc/bsp_SPI.h:
+C:/vscode/TM4CAPP/MCU_bsp/inc/bsp_SPI.h:
 
-D:/VScodeGithub/TM4CAPP/MCU_API/inc/API_Uart.h:
+C:/vscode/TM4CAPP/MCU_API/inc/API_Uart.h:
 
-D:/VScodeGithub/TM4CAPP/MCU_App/inc/app_bootloader.h:
+C:/vscode/TM4CAPP/MCU_API/inc/API_SPI.h:
+
+C:/vscode/TM4CAPP/MCU_App/inc/app_bootloader.h:
 
 ../inc/hw_flash.h:
 

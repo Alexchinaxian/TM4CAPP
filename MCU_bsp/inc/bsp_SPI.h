@@ -5,6 +5,6 @@ void SPI_Init(void);
 void SSI2_Init(void);
 void SSI2IntHandler(void);
 uint8_t SSI2_RW(uint8_t Senddata);
-uint8_t void SSI2_Transmit(uint8_t *Senddata,uint16_t Size);
+void SSI2_Transmit(uint8_t *Senddata,uint16_t Size);
 void SSI2_Recive(uint8_t *ReceiveData,uint16_t size);
 #endif
