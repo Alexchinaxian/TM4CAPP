@@ -9,6 +9,7 @@
 
 //接口层
 #include <MCU_API/inc/API_Uart.h>
+#include <MCU_API/inc/API_SPI.h>
 
 //应用层
 #include <MCU_App/inc/app_bootloader.h>
